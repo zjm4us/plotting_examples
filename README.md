@@ -21,5 +21,7 @@ Exercise 3 (PHYS5630 only):
   - Turn each of the Gaussian distributions into a 2D Gaussian with the same $\mu, \sigma$ in each dimension as in the original example
   - Similarly include 2D versions of the background distributions
   - For the C++ version, include a second build definition to in the Makefile to build the cpp_example2.cpp program.
+  - For the Python version you may use either ROOT or Matplotlib, etc.
+  - Output the following 2 files, one from each program: ```canvas2d_py.png``` and ```canvas2d_cpp.png```, and include these in your repo.  In this case you only need to save the second plot containing 4 panels.
 
 (Use program names: ```cpp_example2.cpp``` , ```python_example2.py``` and push these to your github repo)
