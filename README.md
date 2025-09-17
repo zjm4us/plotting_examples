@@ -11,7 +11,7 @@ Exercise 2:
 
 This repo also contains basic examples of using ROOT in your C++ or Python programs to generate plots.  To build the C++ program, first make sure you are in the phys56xx environment, then type ```make```.  This will create a program called cpp_example. Run the program with ```./cpp_program```.  The equivalent Python example can be run using ```python python_example.py```. 
 
-The C++ example is more advanced.  This is provided as a first example of one way to incorporate graphing in a compiled C++ program.  The ```Makefile``` contains the necessary definitions build the program.  These definitions include the location of header files so the compiler can check that the ROOT classes are being used properly and the location of the shared libraries so the linker can utilize the precompiled code in your program.  You will not be responsible for writing Makefiles from scratch in this class, examples will be provided as needed.  Run and observe the output of this code.
+The C++ example is more advanced.  This is provided as a first example of one way to incorporate graphing in a compiled C++ program.  The ```Makefile``` contains the necessary definitions to build the program.  These definitions include the location of header files so the compiler can check that the ROOT classes are being used properly and the location of the shared libraries so the linker can utilize the precompiled code in your program.  You will not be responsible for writing Makefiles from scratch in this class, examples will be provided as needed.  Run and observe the output of this code.
 
 - Write a python program ```myplots.py``` that uses Matplotlib/numpy, etc. to generate the plots shown in the C++ example.
 
