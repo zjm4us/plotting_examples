@@ -5,7 +5,7 @@ The included Jupyter notebook gives additional examples of making basic plots ne
 Exercise 1:
 - Complete cells at the bottom of the notebook and include your updated notebook in your repo.
 
-The most convenient way to work on the notebook on Rivanna to spin up a Jupyterlab session after making a local clone of your repository.  Make sure to select the Phys56xx kernel.
+The most convenient way to work on the notebook on Rivanna is to spin up a Jupyterlab session after making a local clone of your repository.  Make sure to select the Phys56xx kernel.
 
 This repo also contains basic examples of using ROOT in your C++ or Python programs to generate plots.  To build the C++ program, first make sure you are in the phys56xx environment, then type ```make```.  This will create a program called cpp_example. Run the program with ```./cpp_program```.  The equivalent Python example can be run using ```python python_example.py```. 
 
