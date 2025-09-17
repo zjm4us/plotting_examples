@@ -3,7 +3,7 @@
 The included Jupyter notebook gives additional examples of making basic plots needed to work on upcoming exercises.  
 
 Exercise 1:
-- Complete cells at the bottom of the notebook and include your updated notebooknotebook in your repo.
+- Complete cells at the bottom of the notebook and include your updated notebook in your repo.
 
 The most convenient way to work on the notebook on Rivanna to spin up a Jupyterlab session after making a local clone of your repository.  Make sure to select the Phys56xx kernel.
 
