@@ -1,6 +1,6 @@
 # plotting_examples
 
-The included Jupyter notebook gives examples of making basic plots needed to work on upcoming exercises.
+The included Jupyter notebook gives additional examples of making basic plots needed to work on upcoming exercises.  
 
 Exercise 1:
 - Complete cells at the bottom of the notebook and include your updated notebooknotebook in your repo.
