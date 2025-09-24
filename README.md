@@ -25,3 +25,17 @@ Exercise 3 (PHYS5630 only):
   - Output the following 2 files, one from each program: ```canvas2d_py.png``` and ```canvas2d_cpp.png```, and include these in your repo.  In this case you only need to save the second plot containing 4 panels.
 
 (Use program names: ```cpp_example2.cpp``` , ```python_example2.py``` and push these to your github repo)
+
+
+
+
+-----------------------------------
+
+Exercise 1 – Discussion
+The notebook shows plotting of sin(x) and cos(x) over a specified domain. Separate panels were used to clearly show each function, with labels, legends, and grid lines for clarity. This exercise reinforces plotting multiple functions, customizing figures, and working interactively in JupyterLab.
+
+Exercise 2 – Discussion
+The C++ example uses ROOT to generate Gaussian histograms and modified distributions (uniform offset, 1/x² baseline, double Gaussian). The Python program replicates these plots using Matplotlib. This exercise shows how the same distributions can be visualized in both languages, highlighting plotting options and consistent visualization of statistical data.
+
+Exercise 3 – Discussion
+The 1D distributions were extended to 2D with the same mean and standard deviation per axis. Backgrounds were also extended to 2D, and a double Gaussian was included. Python uses hist2d with color maps and optional log scaling; C++ uses ROOT’s TH2F and COLZ options. These 2D plots show correlations and density distributions, demonstrating multi-panel visualization of complex statistical data.
